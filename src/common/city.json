@@ -1,0 +1,1346 @@
+[
+	{
+		"province": "选择省",
+		"citys": [
+			{
+				"name": "选择市",
+				"areacode": "000"
+			}
+		]
+	},
+	{
+		"province": "北京",
+		"citys": [
+			{
+				"name": "北京",
+				"areacode": "010"
+			}
+		]
+	},
+	{
+		"province": "广东",
+		"citys": [
+			{
+				"name": "深圳",
+				"areacode": "0755"
+			},
+			{
+				"name": "珠海",
+				"areacode": "0756"
+			},
+			{
+				"name": "汕头",
+				"areacode": "0754"
+			},
+			{
+				"name": "韶关",
+				"areacode": "0751"
+			},
+			{
+				"name": "佛山",
+				"areacode": "0757"
+			},
+			{
+				"name": "江门",
+				"areacode": "0750"
+			},
+			{
+				"name": "湛江",
+				"areacode": "0759"
+			},
+			{
+				"name": "茂名",
+				"areacode": "0668"
+			},
+			{
+				"name": "肇庆",
+				"areacode": "0758"
+			},
+			{
+				"name": "惠州",
+				"areacode": "0752"
+			},
+			{
+				"name": "梅州",
+				"areacode": "0753"
+			},
+			{
+				"name": "汕尾",
+				"areacode": "0660"
+			},
+			{
+				"name": "河源",
+				"areacode": "0762"
+			},
+			{
+				"name": "阳江",
+				"areacode": "0662"
+			},
+			{
+				"name": "清远",
+				"areacode": "0763"
+			},
+			{
+				"name": "东莞",
+				"areacode": "0769"
+			},
+			{
+				"name": "中山",
+				"areacode": "0760"
+			},
+			{
+				"name": "潮州",
+				"areacode": "0768"
+			},
+			{
+				"name": "揭阳",
+				"areacode": "0663"
+			},
+			{
+				"name": "云浮",
+				"areacode": "0766"
+			},
+			{
+				"name": "广州",
+				"areacode": "020"
+			}
+		]
+	},
+	{
+		"province": "上海",
+		"citys": [
+			{
+				"name": "上海",
+				"areacode": "021"
+			}
+		]
+	},
+	{
+		"province": "天津",
+		"citys": [
+			{
+				"name": "天津",
+				"areacode": "022"
+			}
+		]
+	},
+	{
+		"province": "重庆",
+		"citys": [
+			{
+				"name": "开县",
+				"areacode": "023"
+			},
+			{
+				"name": "忠县",
+				"areacode": "023"
+			},
+			{
+				"name": "重庆",
+				"areacode": "023"
+			}
+		]
+	},
+	{
+		"province": "辽宁",
+		"citys": [
+			{
+				"name": "大连",
+				"areacode": "0411"
+			},
+			{
+				"name": "鞍山",
+				"areacode": "0412"
+			},
+			{
+				"name": "抚顺",
+				"areacode": "0413"
+			},
+			{
+				"name": "本溪",
+				"areacode": "0414"
+			},
+			{
+				"name": "丹东",
+				"areacode": "0415"
+			},
+			{
+				"name": "锦州",
+				"areacode": "0416"
+			},
+			{
+				"name": "营口",
+				"areacode": "0417"
+			},
+			{
+				"name": "阜新",
+				"areacode": "0418"
+			},
+			{
+				"name": "辽阳",
+				"areacode": "0419"
+			},
+			{
+				"name": "盘锦",
+				"areacode": "0427"
+			},
+			{
+				"name": "铁岭",
+				"areacode": "0410"
+			},
+			{
+				"name": "朝阳",
+				"areacode": "0421"
+			},
+			{
+				"name": "葫芦岛",
+				"areacode": "0429"
+			},
+			{
+				"name": "沈阳",
+				"areacode": "024"
+			}
+		]
+	},
+	{
+		"province": "江苏",
+		"citys": [
+			{
+				"name": "苏州",
+				"areacode": "0512"
+			},
+			{
+				"name": "无锡",
+				"areacode": "0510"
+			},
+			{
+				"name": "常州",
+				"areacode": "0519"
+			},
+			{
+				"name": "镇江",
+				"areacode": "0511"
+			},
+			{
+				"name": "南通",
+				"areacode": "0513"
+			},
+			{
+				"name": "泰州",
+				"areacode": "0523"
+			},
+			{
+				"name": "扬州",
+				"areacode": "0514"
+			},
+			{
+				"name": "盐城",
+				"areacode": "0515"
+			},
+			{
+				"name": "连云港",
+				"areacode": "0518"
+			},
+			{
+				"name": "徐州",
+				"areacode": "0516"
+			},
+			{
+				"name": "淮安",
+				"areacode": "0517"
+			},
+			{
+				"name": "宿州",
+				"areacode": "0557"
+			},
+			{
+				"name": "南京",
+				"areacode": "025"
+			}
+		]
+	},
+	{
+		"province": "湖北",
+		"citys": [
+			{
+				"name": "黄石",
+				"areacode": "0714"
+			},
+			{
+				"name": "十堰",
+				"areacode": "0719"
+			},
+			{
+				"name": "荆州",
+				"areacode": "0716"
+			},
+			{
+				"name": "宜昌",
+				"areacode": "0717"
+			},
+			{
+				"name": "襄樊",
+				"areacode": "0710"
+			},
+			{
+				"name": "鄂州",
+				"areacode": "0711"
+			},
+			{
+				"name": "荆门",
+				"areacode": "0724"
+			},
+			{
+				"name": "孝感",
+				"areacode": "0712"
+			},
+			{
+				"name": "黄冈",
+				"areacode": "0713"
+			},
+			{
+				"name": "咸宁",
+				"areacode": "0715"
+			},
+			{
+				"name": "随州",
+				"areacode": "0722"
+			},
+			{
+				"name": "武汉",
+				"areacode": "027"
+			}
+		]
+	},
+	{
+		"province": "四川",
+		"citys": [
+			{
+				"name": "自贡",
+				"areacode": "0813"
+			},
+			{
+				"name": "攀枝花",
+				"areacode": "0812"
+			},
+			{
+				"name": "泸州",
+				"areacode": "0830"
+			},
+			{
+				"name": "德阳",
+				"areacode": "0838"
+			},
+			{
+				"name": "绵阳",
+				"areacode": "0816"
+			},
+			{
+				"name": "广元",
+				"areacode": "0839"
+			},
+			{
+				"name": "遂宁",
+				"areacode": "0825"
+			},
+			{
+				"name": "内江",
+				"areacode": "0832"
+			},
+			{
+				"name": "乐山",
+				"areacode": "0833"
+			},
+			{
+				"name": "南充",
+				"areacode": "0817"
+			},
+			{
+				"name": "眉山",
+				"areacode": "028"
+			},
+			{
+				"name": "宜宾",
+				"areacode": "0831"
+			},
+			{
+				"name": "广安",
+				"areacode": "0826"
+			},
+			{
+				"name": "达州",
+				"areacode": "0818"
+			},
+			{
+				"name": "雅安",
+				"areacode": "0835"
+			},
+			{
+				"name": "巴中",
+				"areacode": "0827"
+			},
+			{
+				"name": "资阳",
+				"areacode": "028"
+			},
+			{
+				"name": "成都",
+				"areacode": "028"
+			}
+		]
+	},
+	{
+		"province": "陕西",
+		"citys": [
+			{
+				"name": "铜川",
+				"areacode": "0919"
+			},
+			{
+				"name": "宝鸡",
+				"areacode": "0917"
+			},
+			{
+				"name": "咸阳",
+				"areacode": "029"
+			},
+			{
+				"name": "渭南",
+				"areacode": "0913"
+			},
+			{
+				"name": "延安",
+				"areacode": "0911"
+			},
+			{
+				"name": "汉中",
+				"areacode": "0916"
+			},
+			{
+				"name": "榆林",
+				"areacode": "0912"
+			},
+			{
+				"name": "安康",
+				"areacode": "0915"
+			},
+			{
+				"name": "商洛",
+				"areacode": "0914"
+			},
+			{
+				"name": "西安",
+				"areacode": "029"
+			}
+		]
+	},
+	{
+		"province": "河北",
+		"citys": [
+			{
+				"name": "唐山",
+				"areacode": "0315"
+			},
+			{
+				"name": "秦皇岛",
+				"areacode": "0335"
+			},
+			{
+				"name": "邯郸",
+				"areacode": "0310"
+			},
+			{
+				"name": "邢台",
+				"areacode": "0319"
+			},
+			{
+				"name": "保定",
+				"areacode": "0312"
+			},
+			{
+				"name": "张家口",
+				"areacode": "0313"
+			},
+			{
+				"name": "承德",
+				"areacode": "0314"
+			},
+			{
+				"name": "沧州",
+				"areacode": "0317"
+			},
+			{
+				"name": "廊坊",
+				"areacode": "0316"
+			},
+			{
+				"name": "衡水",
+				"areacode": "0318"
+			},
+			{
+				"name": "石家庄",
+				"areacode": "0311"
+			}
+		]
+	},
+	{
+		"province": "山西",
+		"citys": [
+			{
+				"name": "大同",
+				"areacode": "0352"
+			},
+			{
+				"name": "阳泉",
+				"areacode": "0353"
+			},
+			{
+				"name": "长治",
+				"areacode": "0355"
+			},
+			{
+				"name": "晋城",
+				"areacode": "0356"
+			},
+			{
+				"name": "朔州",
+				"areacode": "0349"
+			},
+			{
+				"name": "晋中",
+				"areacode": "0354"
+			},
+			{
+				"name": "运城",
+				"areacode": "0359"
+			},
+			{
+				"name": "忻州",
+				"areacode": "0350"
+			},
+			{
+				"name": "临汾",
+				"areacode": "0357"
+			},
+			{
+				"name": "吕梁",
+				"areacode": "0358"
+			},
+			{
+				"name": "太原",
+				"areacode": "0351"
+			}
+		]
+	},
+	{
+		"province": "河南",
+		"citys": [
+			{
+				"name": "开封",
+				"areacode": "0378"
+			},
+			{
+				"name": "洛阳",
+				"areacode": "0379"
+			},
+			{
+				"name": "平顶山",
+				"areacode": "0375"
+			},
+			{
+				"name": "安阳",
+				"areacode": "0372"
+			},
+			{
+				"name": "鹤壁",
+				"areacode": "0392"
+			},
+			{
+				"name": "新乡",
+				"areacode": "0373"
+			},
+			{
+				"name": "焦作",
+				"areacode": "0391"
+			},
+			{
+				"name": "濮阳",
+				"areacode": "0393"
+			},
+			{
+				"name": "许昌",
+				"areacode": "0374"
+			},
+			{
+				"name": "漯河",
+				"areacode": "0395"
+			},
+			{
+				"name": "三门峡",
+				"areacode": "0398"
+			},
+			{
+				"name": "南阳",
+				"areacode": "0377"
+			},
+			{
+				"name": "商丘",
+				"areacode": "0370"
+			},
+			{
+				"name": "信阳",
+				"areacode": "0376"
+			},
+			{
+				"name": "周口",
+				"areacode": "0394"
+			},
+			{
+				"name": "驻马店",
+				"areacode": "0396"
+			},
+			{
+				"name": "焦作",
+				"areacode": "0391"
+			},
+			{
+				"name": "郑州",
+				"areacode": "0371"
+			}
+		]
+	},
+	{
+		"province": "吉林",
+		"citys": [
+			{
+				"name": "四平",
+				"areacode": "0434"
+			},
+			{
+				"name": "辽源",
+				"areacode": "0437"
+			},
+			{
+				"name": "通化",
+				"areacode": "0435"
+			},
+			{
+				"name": "白山",
+				"areacode": "0439"
+			},
+			{
+				"name": "松原",
+				"areacode": "0438"
+			},
+			{
+				"name": "白城",
+				"areacode": "0436"
+			},
+			{
+				"name": "吉林",
+				"areacode": "0423"
+			}
+		]
+	},
+	{
+		"province": "黑龙江",
+		"citys": [
+			{
+				"name": "齐齐哈尔",
+				"areacode": "0452"
+			},
+			{
+				"name": "鹤岗",
+				"areacode": "0468"
+			},
+			{
+				"name": "双鸭山",
+				"areacode": "0469"
+			},
+			{
+				"name": "鸡西",
+				"areacode": "0467"
+			},
+			{
+				"name": "大庆",
+				"areacode": "0459"
+			},
+			{
+				"name": "伊春",
+				"areacode": "0458"
+			},
+			{
+				"name": "牡丹江",
+				"areacode": "0453"
+			},
+			{
+				"name": "佳木斯",
+				"areacode": "0454"
+			},
+			{
+				"name": "七台河",
+				"areacode": "0464"
+			},
+			{
+				"name": "黑河",
+				"areacode": "0456"
+			},
+			{
+				"name": "哈尔滨",
+				"areacode": "0451"
+			}
+		]
+	},
+	{
+		"province": "内蒙古",
+		"citys": [
+			{
+				"name": "包头",
+				"areacode": "0472"
+			},
+			{
+				"name": "乌海",
+				"areacode": "0473"
+			},
+			{
+				"name": "赤峰",
+				"areacode": "0476"
+			},
+			{
+				"name": "通辽",
+				"areacode": "0475"
+			},
+			{
+				"name": "鄂尔多斯",
+				"areacode": "0477"
+			},
+			{
+				"name": "呼伦贝尔",
+				"areacode": "0470"
+			},
+			{
+				"name": "巴彦淖尔",
+				"areacode": "0478"
+			},
+			{
+				"name": "乌兰察布",
+				"areacode": "0474"
+			},
+			{
+				"name": "锡林郭勒盟",
+				"areacode": "0479"
+			},
+			{
+				"name": "兴安盟",
+				"areacode": "0482"
+			},
+			{
+				"name": "阿拉善盟",
+				"areacode": "0483"
+			},
+			{
+				"name": "呼和浩特",
+				"areacode": "0471"
+			}
+		]
+	},
+	{
+		"province": "山东",
+		"citys": [
+			{
+				"name": "青岛",
+				"areacode": "0532"
+			},
+			{
+				"name": "淄博",
+				"areacode": "0533"
+			},
+			{
+				"name": "枣庄",
+				"areacode": "0623"
+			},
+			{
+				"name": "东营",
+				"areacode": "0546"
+			},
+			{
+				"name": "烟台",
+				"areacode": "0535"
+			},
+			{
+				"name": "潍坊",
+				"areacode": "0536"
+			},
+			{
+				"name": "济宁",
+				"areacode": "0537"
+			},
+			{
+				"name": "泰安",
+				"areacode": "0538"
+			},
+			{
+				"name": "威海",
+				"areacode": "0631"
+			},
+			{
+				"name": "日照",
+				"areacode": "0633"
+			},
+			{
+				"name": "莱芜",
+				"areacode": "0634"
+			},
+			{
+				"name": "临沂",
+				"areacode": "0539"
+			},
+			{
+				"name": "德州",
+				"areacode": "0534"
+			},
+			{
+				"name": "聊城",
+				"areacode": "0635"
+			},
+			{
+				"name": "滨州",
+				"areacode": "0543"
+			},
+			{
+				"name": "菏泽",
+				"areacode": "0530"
+			},
+			{
+				"name": "济南",
+				"areacode": "0531"
+			}
+		]
+	},
+	{
+		"province": "安徽",
+		"citys": [
+			{
+				"name": "芜湖",
+				"areacode": "0553"
+			},
+			{
+				"name": "蚌埠",
+				"areacode": "0552"
+			},
+			{
+				"name": "淮南",
+				"areacode": "0554"
+			},
+			{
+				"name": "马鞍山",
+				"areacode": "0555"
+			},
+			{
+				"name": "淮北",
+				"areacode": "0561"
+			},
+			{
+				"name": "铜陵",
+				"areacode": "0562"
+			},
+			{
+				"name": "安庆",
+				"areacode": "0556"
+			},
+			{
+				"name": "黄山",
+				"areacode": "0559"
+			},
+			{
+				"name": "滁州",
+				"areacode": "0550"
+			},
+			{
+				"name": "阜阳",
+				"areacode": "0558"
+			},
+			{
+				"name": "宿州",
+				"areacode": "0557"
+			},
+			{
+				"name": "巢湖",
+				"areacode": "0565"
+			},
+			{
+				"name": "六安",
+				"areacode": "0564"
+			},
+			{
+				"name": "亳州",
+				"areacode": "0558"
+			},
+			{
+				"name": "池州",
+				"areacode": "0566"
+			},
+			{
+				"name": "宣城",
+				"areacode": "0563"
+			},
+			{
+				"name": "合肥",
+				"areacode": "0551"
+			}
+		]
+	},
+	{
+		"province": "浙江",
+		"citys": [
+			{
+				"name": "宁波",
+				"areacode": "0574"
+			},
+			{
+				"name": "温州",
+				"areacode": "0577"
+			},
+			{
+				"name": "嘉兴",
+				"areacode": "0573"
+			},
+			{
+				"name": "湖州",
+				"areacode": "0572"
+			},
+			{
+				"name": "绍兴",
+				"areacode": "0575"
+			},
+			{
+				"name": "金华",
+				"areacode": "0579"
+			},
+			{
+				"name": "衢州",
+				"areacode": "0570"
+			},
+			{
+				"name": "舟山",
+				"areacode": "0580"
+			},
+			{
+				"name": "台州",
+				"areacode": "0576"
+			},
+			{
+				"name": "丽水",
+				"areacode": "0578"
+			},
+			{
+				"name": "杭州",
+				"areacode": "0571"
+			}
+		]
+	},
+	{
+		"province": "福建",
+		"citys": [
+			{
+				"name": "厦门",
+				"areacode": "0592"
+			},
+			{
+				"name": "莆田",
+				"areacode": "0594"
+			},
+			{
+				"name": "三明",
+				"areacode": "0598"
+			},
+			{
+				"name": "泉州",
+				"areacode": "0595"
+			},
+			{
+				"name": "漳州",
+				"areacode": "0596"
+			},
+			{
+				"name": "南平",
+				"areacode": "0599"
+			},
+			{
+				"name": "龙岩",
+				"areacode": "0597"
+			},
+			{
+				"name": "宁德",
+				"areacode": "0593"
+			},
+			{
+				"name": "福州",
+				"areacode": "0591"
+			}
+		]
+	},
+	{
+		"province": "湖南",
+		"citys": [
+			{
+				"name": "株洲",
+				"areacode": "0731"
+			},
+			{
+				"name": "湘潭",
+				"areacode": "0732"
+			},
+			{
+				"name": "衡阳",
+				"areacode": "0734"
+			},
+			{
+				"name": "邵阳",
+				"areacode": "0739"
+			},
+			{
+				"name": "岳阳",
+				"areacode": "0730"
+			},
+			{
+				"name": "常德",
+				"areacode": "0736"
+			},
+			{
+				"name": "张家界",
+				"areacode": "0744"
+			},
+			{
+				"name": "益阳",
+				"areacode": "0737"
+			},
+			{
+				"name": "滨州",
+				"areacode": "0543"
+			},
+			{
+				"name": "永州",
+				"areacode": "0746"
+			},
+			{
+				"name": "怀化",
+				"areacode": "0745"
+			},
+			{
+				"name": "娄底",
+				"areacode": "0738"
+			},
+			{
+				"name": "长沙",
+				"areacode": "0731"
+			}
+		]
+	},
+	{
+		"province": "广西",
+		"citys": [
+			{
+				"name": "柳州",
+				"areacode": "0772"
+			},
+			{
+				"name": "桂林",
+				"areacode": "0773"
+			},
+			{
+				"name": "梧州",
+				"areacode": "0774"
+			},
+			{
+				"name": "北海",
+				"areacode": "0779"
+			},
+			{
+				"name": "防城港",
+				"areacode": "0770"
+			},
+			{
+				"name": "钦州",
+				"areacode": "0777"
+			},
+			{
+				"name": "贵港",
+				"areacode": "0775"
+			},
+			{
+				"name": "玉林",
+				"areacode": "0775"
+			},
+			{
+				"name": "百色",
+				"areacode": "0776"
+			},
+			{
+				"name": "贺州",
+				"areacode": "0774"
+			},
+			{
+				"name": "河池",
+				"areacode": "0778"
+			},
+			{
+				"name": "来宾",
+				"areacode": "0772"
+			},
+			{
+				"name": "崇左",
+				"areacode": "0771"
+			},
+			{
+				"name": "南宁",
+				"areacode": "0771"
+			}
+		]
+	},
+	{
+		"province": "江西",
+		"citys": [
+			{
+				"name": "景德镇",
+				"areacode": "0798"
+			},
+			{
+				"name": "萍乡",
+				"areacode": "0799"
+			},
+			{
+				"name": "九江",
+				"areacode": "0792"
+			},
+			{
+				"name": "新余",
+				"areacode": "0790"
+			},
+			{
+				"name": "鹰潭",
+				"areacode": "0701"
+			},
+			{
+				"name": "赣州",
+				"areacode": "0797"
+			},
+			{
+				"name": "吉安",
+				"areacode": "0796"
+			},
+			{
+				"name": "宜春",
+				"areacode": "0795"
+			},
+			{
+				"name": "抚州",
+				"areacode": "0794"
+			},
+			{
+				"name": "上饶",
+				"areacode": "0793"
+			},
+			{
+				"name": "南昌",
+				"areacode": "0791"
+			}
+		]
+	},
+	{
+		"province": "贵州",
+		"citys": [
+			{
+				"name": "六盘水",
+				"areacode": "0858"
+			},
+			{
+				"name": "遵义",
+				"areacode": "0852"
+			},
+			{
+				"name": "安顺",
+				"areacode": "0853"
+			},
+			{
+				"name": "铜仁",
+				"areacode": "0856"
+			},
+			{
+				"name": "毕节",
+				"areacode": "0857"
+			},
+			{
+				"name": "贵阳",
+				"areacode": "0851"
+			}
+		]
+	},
+	{
+		"province": "云南",
+		"citys": [
+			{
+				"name": "曲靖",
+				"areacode": "0874"
+			},
+			{
+				"name": "玉溪",
+				"areacode": "0877"
+			},
+			{
+				"name": "保山",
+				"areacode": "0875"
+			},
+			{
+				"name": "丽江",
+				"areacode": "0888"
+			},
+			{
+				"name": "普洱",
+				"areacode": "0879"
+			},
+			{
+				"name": "临沧",
+				"areacode": "0883"
+			},
+			{
+				"name": "昆明",
+				"areacode": "0871"
+			}
+		]
+	},
+	{
+		"province": "西藏",
+		"citys": [
+			{
+				"name": "日喀则",
+				"areacode": "0892"
+			},
+			{
+				"name": "拉萨",
+				"areacode": "0891"
+			}
+		]
+	},
+	{
+		"province": "海南",
+		"citys": [
+			{
+				"name": "三亚",
+				"areacode": "0899"
+			},
+			{
+				"name": "海口",
+				"areacode": "0898"
+			}
+		]
+	},
+	{
+		"province": "甘肃",
+		"citys": [
+			{
+				"name": "嘉峪关",
+				"areacode": "0937"
+			},
+			{
+				"name": "金昌",
+				"areacode": "0935"
+			},
+			{
+				"name": "白银",
+				"areacode": "0943"
+			},
+			{
+				"name": "天水",
+				"areacode": "0938"
+			},
+			{
+				"name": "武威",
+				"areacode": "0935"
+			},
+			{
+				"name": "酒泉",
+				"areacode": "0937"
+			},
+			{
+				"name": "张掖",
+				"areacode": "0936"
+			},
+			{
+				"name": "庆阳",
+				"areacode": "0934"
+			},
+			{
+				"name": "平凉",
+				"areacode": "0933"
+			},
+			{
+				"name": "定西",
+				"areacode": "0932"
+			},
+			{
+				"name": "陇南",
+				"areacode": "0939"
+			},
+			{
+				"name": "临夏",
+				"areacode": "0930"
+			},
+			{
+				"name": "甘南",
+				"areacode": "0941"
+			},
+			{
+				"name": "兰州",
+				"areacode": "0931"
+			}
+		]
+	},
+	{
+		"province": "宁夏",
+		"citys": [
+			{
+				"name": "石嘴山",
+				"areacode": "0952"
+			},
+			{
+				"name": "吴忠",
+				"areacode": "0953"
+			},
+			{
+				"name": "固原",
+				"areacode": "0954"
+			},
+			{
+				"name": "中卫",
+				"areacode": "0955"
+			},
+			{
+				"name": "银川",
+				"areacode": "0951"
+			}
+		]
+	},
+	{
+		"province": "青海",
+		"citys": [
+			{
+				"name": "西宁",
+				"areacode": "0971"
+			}
+		]
+	},
+	{
+		"province": "新疆",
+		"citys": [
+			{
+				"name": "克拉玛依",
+				"areacode": "0990"
+			},
+			{
+				"name": "乌鲁木齐",
+				"areacode": "0991"
+			}
+		]
+	}
+]

@@ -1,0 +1,157 @@
+{
+    "pages": [{
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": "首页"
+            }
+        },
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationBarTitleText": "登陆"
+            }
+        },
+        {
+            "path": "pages/login/reg",
+            "style": {
+                "navigationBarTitleText": "注册"
+            }
+        },
+        {
+            "path": "pages/login/forgetPwd",
+            "style": {
+                "navigationBarTitleText": "找回密码"
+            }
+        },
+        {
+            "path": "pages/device/editField",
+            "style": {
+                "navigationBarTitleText": "编辑场地"
+            }
+        },
+        {
+            "path": "pages/device/bindPoints",
+            "style": {
+                "navigationBarTitleText": "绑定点位"
+            }
+        },
+        {
+            "path": "pages/device/unbindDevice",
+            "style": {
+                "navigationBarTitleText": "解绑"
+            }
+        },
+        {
+            "path": "pages/device/transfer",
+            "style": {
+                "navigationBarTitleText": "转移"
+            }
+        },
+        {
+            "path": "pages/device/mvDevice",
+            "style": {
+                "navigationBarTitleText": "转移"
+            }
+        },
+        {
+            "path": "pages/device/regDevice",
+            "style": {
+                "navigationBarTitleText": "设备注册"
+            }
+        },
+        {
+            "path": "pages/device/addField",
+            "style": {
+                "navigationBarTitleText": "添加场地"
+            }
+        },
+        {
+            "path": "pages/device/addPoints",
+            "style": {
+                "navigationBarTitleText": "添加点位"
+            }
+        },
+        {
+            "path": "pages/device/bindEggbin",
+            "style": {
+                "navigationBarTitleText": "绑定蛋仓"
+            }
+        },
+        {
+            "path": "pages/clearance/clearProductsIndex",
+            "style": {
+                "navigationBarTitleText": "清货扫码"
+            }
+        },
+		{
+		    "path": "pages/clearance/clearProducts",
+		    "style": {
+		        "navigationBarTitleText": "清货"
+		    }
+		},
+		{
+		    "path": "pages/replenish/addReqlenishIndex",
+		    "style": {
+		        "navigationBarTitleText": "补货扫码"
+		    }
+		},
+        {
+            "path": "pages/replenish/addReqlenish",
+            "style": {
+                "navigationBarTitleText": "补货"
+            }
+        },
+        {
+            "path": "pages/deviceManage/index",
+            "style": {
+                "navigationBarTitleText": "设备管理"
+            }
+        },
+        {
+            "path": "pages/deviceManage/deviceTwo",
+            "style": {
+                "navigationBarTitleText": "设备管理"
+            }
+        },
+        {
+            "path": "pages/deviceManage/fault",
+            "style": {
+                "navigationBarTitleText": "设备故障"
+            }
+        },
+        {
+            "path": "pages/deviceManage/details",
+            "style": {
+                "navigationBarTitleText": "设备详情"
+            }
+        }
+    ],
+    "tabBar": {
+        "color": "#666",
+        "selectedColor": "#2F6FF3",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+        "list": [{
+            "pagePath": "pages/index/index",
+            "iconPath": "static/img/tabar/index.png",
+            "selectedIconPath": "static/img/tabar/index_selected.png",
+            "text": "首页"
+        }, {
+            "pagePath": "pages/deviceManage/index",
+            "iconPath": "static/img/tabar/device_manage.png",
+            "selectedIconPath": "/static/img/tabar/device_manage_selected.png",
+            "text": "设备管理"
+        }, {
+            "pagePath": "pages/deviceManage/fault",
+            "iconPath": "static/img/tabar/fault.png",
+            "selectedIconPath": "/static/img/tabar/fault_selected.png",
+            "text": "设备异常"
+        }]
+    },
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    }
+}
